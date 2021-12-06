@@ -10,4 +10,8 @@ dependencies:
   - jupyterlab
   - mlxtend
   - watermark
+  - xgboost
+  - optuna
+  - hyperopt
+  - imbalanced-learn
   
